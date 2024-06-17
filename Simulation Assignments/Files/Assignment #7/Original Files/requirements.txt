@@ -1,0 +1,9 @@
+
+
+This Simulation Exercise will require a 10 Hz clock. First, explain how a 10 Hz clock will allow us to measure 0.1 sec.
+
+Since you will be re-using published code, you will of course have to fully describe the operation of each section of your code– a block diagram should be generated, and each block and its interface should be described. Also, you should carefully document the code itself– not trusting to comments written by other authors. Finally, you are expected to provide full referencing for each code segment you use. Simply providing a series of web references at the bottom of your report will not be accepted.
+
+you will be expected to have multiple testbenches as I encourage you to adopt unit testing techniques for your hardware design, a cornerstone of extreme programming (XP)
+
+how to simulate stop, start, reset on the stopwatch using vivado??
